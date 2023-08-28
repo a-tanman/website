@@ -1,0 +1,4 @@
+baseURL = 'http://a-tanman.github.io/'
+languageCode = 'en-us'
+title = 'Blog'
+theme = 'ananke'
